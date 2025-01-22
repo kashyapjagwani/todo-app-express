@@ -28,8 +28,12 @@ Follow these steps to set up and run the project locally:
    ```bash
    npm i
 
-2. **Create a `.env` file and add the following to it**
+3. **Create a `.env` file and add the following to it**
    ```bash
    DATABASE_URL="mysql://avnadmin:AVNS_y6WruKZqVyDtFLqRj4X@todo-app-nooro-todo-app-nooro.c.aivencloud.com:28468/defaultdb"
    PORT=3001
+4. **Run the server**
+   ```bash
+      npm run start
+
 
