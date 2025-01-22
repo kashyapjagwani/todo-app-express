@@ -5,7 +5,7 @@ This project is a **Todo Application** built using **Express.js**, **Prisma**, a
 ## Features
 
 - **CRUD Operations**: Manage todo items with full Create, Read, Update, and Delete functionality.
-- **Database Integration**: Utilizes Prisma as an ORM to interact with a remote MySQL database (remotely hosted on [Aiven](https://aiven.io/)).
+- **Database Integration**: Utilizes Prisma as an ORM to interact with a remote MySQL database (MySQL databse is remotely hosted on [Aiven](https://aiven.io/)).
 - **Express.js Server**: Handles API requests and responses efficiently.
 
 ## Prerequisites
@@ -35,5 +35,3 @@ Follow these steps to set up and run the project locally:
 4. **Run the server**
    ```bash
       npm run start
-
-
